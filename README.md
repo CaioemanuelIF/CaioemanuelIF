@@ -1,6 +1,6 @@
 
 ## 
-<img src="https://user-images.githubusercontent.com/80735245/118889697-dc62ba00-b8d3-11eb-9445-eb66525c2f9e.gif" width="300px" /> <img src="https://user-images.githubusercontent.com/80735245/118892976-19c94680-b8d8-11eb-91ac-8125ba0fde07.png" width="50px"/>  What's up? my name is Caio Emanuel i'm brazilian PORRA!!!
+<img src="https://user-images.githubusercontent.com/80735245/118889697-dc62ba00-b8d3-11eb-9445-eb66525c2f9e.gif" width="300px" /> <img src="https://user-images.githubusercontent.com/80735245/118892976-19c94680-b8d8-11eb-91ac-8125ba0fde07.png" width="50px"/>  What's up? my name is Caio Emanuel i'm brazilian !
 
 
 
