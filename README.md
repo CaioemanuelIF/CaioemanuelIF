@@ -25,5 +25,19 @@
 [instagram]: https://www.instagram.com/caio_e.campos/
 [facebook]: https://www.facebook.com/caioemanuel.464/
 
+### Linguagens e ferramentas:
+
+[<img align="left" alt="midias" width="44px" src="https://user-images.githubusercontent.com/80735245/124055854-0e9b2780-d9fb-11eb-9976-bc0934c0ca77.png" />][linkedin]
+[<img align="left" alt="midias" width="44px" src="https://user-images.githubusercontent.com/80735245/124055877-18248f80-d9fb-11eb-9554-0f92138e38df.png" />][instagram]
+[<img align="left" alt="midias" width="44px" src="https://user-images.githubusercontent.com/80735245/124055905-22468e00-d9fb-11eb-8325-61afe6fa8714.png" />][facebook]
+
+
 <br />
-[ tel +55 11 980927493]
+
+### Contato:
+
+Email: caioemanuelcampos@hotmail.com
+
+Email2: caioemanuelcampos@gmail.com
+
+Tel +55 11 980927493
