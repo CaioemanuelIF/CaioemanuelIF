@@ -9,10 +9,10 @@
 - ✍️ Hobbies: Gosto de desenhar, fazer modelagens 3d.
 
 ### Conheça minhas redes:
+![github](https://user-images.githubusercontent.com/80735245/124052214-64200600-d9f4-11eb-80c9-185b3f7a0054.png)
+![instagram](https://user-images.githubusercontent.com/80735245/124052204-5ec2bb80-d9f4-11eb-8095-44d60a7fe62e.png)
+![linkedin ](https://user-images.githubusercontent.com/80735245/124052191-536f9000-d9f4-11eb-81f2-77fdd0d97821.png)
 
-{<img align="left" alt="midias" width="22px" src="READme/github.png" />} [github]
-{<img align="left" alt="midias" width="22px" src="READme/instagram.png" />} [instagram]
-{<img align="left" alt="midias" width="22px" src="READme/linkedin.png" />} [linkedin]
 
 
 <br />
