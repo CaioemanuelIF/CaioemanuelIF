@@ -11,7 +11,6 @@
 ### Conheça minhas redes:
 
 
-[<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124052214-64200600-d9f4-11eb-80c9-185b3f7a0054.png" />][github]
 [<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124052191-536f9000-d9f4-11eb-81f2-77fdd0d97821.png" />][linkedin]
 [<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124054212-f249bb80-d9f7-11eb-9c1c-81d4ce590eb4.png" />][instagram]
 [<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124052888-a0079b00-d9f5-11eb-9c9f-a438904d3b3b.png" />][facebook]
@@ -21,7 +20,7 @@
 <br />
 
 ###
-[github]: https://github.com/CaioemanuelIF
+
 [linkedin]: https://www.linkedin.com/in/caioemanuel/
 [instagram]: https://www.instagram.com/caio_e.campos/
 [facebook]: https://www.facebook.com/caioemanuel.464/
