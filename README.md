@@ -38,6 +38,6 @@
 
 Email: caioemanuelcampos@hotmail.com
 
-Email2: caioemanuelcampos@gmail.com
+Email2: caioemanuelcampos1@gmail.com
 
 Tel +55 11 980927493
