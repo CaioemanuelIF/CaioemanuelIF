@@ -1,43 +1,41 @@
 
 ### Olá, eu sou o Caio, prazer em conhecer!
 
-
-## Eu sou Estudante do Instituto Proa!
 - 👨‍💻 atualmente estou desenvolvendo um website com meus colegas de equipe!
 - 👨‍🍳 amo cozinhar e sentir o sabor do prato em seguida haha.
 - 🧳 adoraria viajar pelo mundo descobrindo lugares e experimentando novas coisas.
 - ✍️ Hobbies: Gosto de desenhar, fazer modelagens 3d.
 
+<div>
+  <a href="https://github.com/CaioemanuelIF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioemanuelIF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioemanuelIF&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Conheça minhas redes:
-
-
-[<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124052191-536f9000-d9f4-11eb-81f2-77fdd0d97821.png" />][linkedin]
-[<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124054212-f249bb80-d9f7-11eb-9c1c-81d4ce590eb4.png" />][instagram]
-[<img align="left" alt="midias" width="22px" src="https://user-images.githubusercontent.com/80735245/124052888-a0079b00-d9f5-11eb-9c9f-a438904d3b3b.png" />][facebook]
-
-
 
 <br />
 
 ###
-
-[linkedin]: https://www.linkedin.com/in/caioemanuel/
-[instagram]: https://www.instagram.com/caio_e.campos/
-[facebook]: https://www.facebook.com/caioemanuel.464/
+<div> 
+  <a href="https://instagram.com/caio_e.campos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caioemanuelcampos1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caioemanuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/CaioemanuelIF/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 ### Linguagens e ferramentas:
 
-<img align="left" alt="midias" width="44px" src="https://user-images.githubusercontent.com/80735245/124055854-0e9b2780-d9fb-11eb-9976-bc0934c0ca77.png" />
-<img align="left" alt="midias" width="44px" src="https://user-images.githubusercontent.com/80735245/124055877-18248f80-d9fb-11eb-9554-0f92138e38df.png" />
-<img align="left" alt="midias" width="44px" src="https://user-images.githubusercontent.com/80735245/124055905-22468e00-d9fb-11eb-8325-61afe6fa8714.png" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
 
 
 <br />
 
-### Contato:
-
-Email: caioemanuelcampos@hotmail.com
-
-Email2: caioemanuelcampos1@gmail.com
-
-Tel +55 11 980927493
