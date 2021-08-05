@@ -1,9 +1,9 @@
 
 ### Olá, eu sou o Caio, prazer em conhecer!
 
-- 👨‍💻 atualmente estou desenvolvendo um website com meus colegas de equipe!
-- 👨‍🍳 amo cozinhar e sentir o sabor do prato em seguida haha.
-- 🧳 adoraria viajar pelo mundo descobrindo lugares e experimentando novas coisas.
+- 👨‍💻 Atualmente estou desenvolvendo um website com meus colegas de equipe!
+- 👨‍🍳 Amo cozinhar e sentir o sabor do prato em seguida haha.
+- 🧳 Adoraria viajar pelo mundo descobrindo lugares e experimentando coisas novas.
 - ✍️ Hobbies: Gosto de desenhar, fazer modelagens 3d.
 
 <div>
