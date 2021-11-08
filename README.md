@@ -27,4 +27,4 @@
 
 - 👨‍🍳 I love to cook and taste the dish afterwards haha.
 - ✈️ I would love to travel around the world discovering places and experiencing new things.
-- ✍️ Hobbies: I like to draw, make 3d modeling.
+- ✍️ Hobbies: I like to draw, and 3d modeling.
